@@ -7,3 +7,4 @@
 - 📫 How to reach me: instagram:- @nandalal_gorai
 - ⚡ Fun fact: I spend 4-5 hours on youtube 
 
+https://github-readme-stats.vercel.app/api?username=NANDALALGORAI&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
