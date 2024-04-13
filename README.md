@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nandalal Gorai</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently persuaing **Btech(Computer Science and Engineering)**
-
-- 🌱 I’m currently learning **Web Development,**
-
-- 👯 I’m looking to collaborate on **any internship**
+- 🔭 I’m currently working at CGI as a **Software Developer**(DOTNET Fullstack).
 
 - 🤝 I’m looking for help with **DSA**
 
